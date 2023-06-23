@@ -24,6 +24,10 @@ Follow the steps below to set up the project:
    
         pip install -r requirements.txt
 
+## Screenshots
+
+![Screenshot (30)](https://github.com/gv1shnu/UploadMate/assets/121789146/a1a1c383-65c7-4fe6-8d79-e2604f376d99)
+
 ## Usage
 
 To upload a video, follow these steps:
